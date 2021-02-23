@@ -758,6 +758,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_face_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_face_video_3a.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_flash_fullsize.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_flash_fullsize.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_flash_fullsize_cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_flash_fullsize_cpp.so \
+    vendor/xiaomi/ysl/proprietary/vendor/lib/libdisplayconfig.qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdisplayconfig.qti.so \
+    vendor/xiaomi/ysl/proprietary/vendor/lib64/libdisplayconfig.qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdisplayconfig.qti.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_flash_liveshot_cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_flash_liveshot_cpp.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_flash_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_flash_preview.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_flash_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ysl_s5k3p8sp_sunny_ii_flash_preview_3a.so \
